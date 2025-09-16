@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Nokuthula Ngcongo</h1>
 <h3 align="center">AI/ML Enthusiast | Full-stack Developer</h3>
 
-- 🔭 I’m currently working on [Portfolio Website](https://github.com/Nokuthula-ops/Portfolio)
+- 🔭 I’m currently working on [Portfolio Website](https://portfolio-ashen-pi-vrgkt6gc69.vercel.app/))
 
 - 🌱 I’m currently learning **IT Support Fundamentals**
 
