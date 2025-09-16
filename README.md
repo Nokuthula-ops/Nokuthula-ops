@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nokuthula Ngcongo</h1>
+<h1 align="center">Hello 👋, I'm Nokuthula Ngcongo</h1>
 <h3 align="center">AI/ML Enthusiast | Full-stack Developer</h3>
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/Nokuthula-ops/Portfolio)
