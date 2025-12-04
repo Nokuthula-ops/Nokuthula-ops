@@ -5,7 +5,7 @@
   
 - 🔭 View my [Portfolio Website](https://nokuthula-portfolio.my.canva.site/)
 
-- 🌱 I’m currently learning **IT Support Fundamentals**
+- 🌱 I’m currently learning **troubleshooting and Debuging Techniques**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nokuthula-ops/Portfolio](https://github.com/Nokuthula-ops/Portfolio)
 
