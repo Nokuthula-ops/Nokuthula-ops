@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nokuthula-ngcongo-8221b1315](https://www.linkedin.com/in/nokuthula-ngcongo-8221b1315)
 
-- ⚡ Fun fact **I TRUST EVERYONE :)**
+- ⚡ Fun fact about me:  **I TRUST EVERYONE :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
