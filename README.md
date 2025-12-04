@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Nokuthula Ngcongo</h1>
-<h3 align="center">AI/ML Enthusiast | Full-stack Developer</h3>
+<h3 align="center">ASPIRING IT SUPPORT TECHNICIAN</h3>
 
 - 🔭 I’m currently working on CompTIA A+ Certification
   
