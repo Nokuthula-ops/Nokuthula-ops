@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **troubleshooting and Debuging Techniques**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nokuthula-ops/Portfolio](https://github.com/Nokuthula-ops/Portfolio)
-
 - 💬 Ask me about **cloud computing, vue, gsap**
 
 - 📫 How to reach me **nokuthulangcongo11@gmail.com**
