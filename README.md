@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on CompTIA A+ Certification
   
-- 🔭 View my Portfolio [Portfolio Website](https://nokuthula-portfolio.my.canva.site/)
+- 🔭 View my [Portfolio Website](https://nokuthula-portfolio.my.canva.site/)
 
 - 🌱 I’m currently learning **IT Support Fundamentals**
 
